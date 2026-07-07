@@ -1,0 +1,5 @@
+numpy>=1.23
+scipy>=1.9
+imageio-ffmpeg>=0.4.9
+tkinterdnd2>=0.3.0
+pyinstaller>=6.0
